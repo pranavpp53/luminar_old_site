@@ -1,0 +1,36 @@
+.lu1 {
+    height: 40px;
+    background-color: #5e068a;
+}
+
+.lu2-1 {
+    float: left;
+}
+
+.lu2-2 {
+    float: right;
+}
+
+.lu3 {
+    height: 25px;
+    background-color: #5e068a;
+    margin-top: 7px;
+}
+
+@media(max-width:767px) {
+    .lu1 {
+        height: 80px;
+    }
+
+}
+.slideimg{
+    width: 100%;
+}
+.fishead{
+    font-size: 50px;
+}
+@media(max-width:1098) {
+    .fishead {
+        font-size: 30px;
+    }
+}
